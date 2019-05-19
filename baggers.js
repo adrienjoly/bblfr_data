@@ -8350,7 +8350,7 @@ var data = {
         {
           title: 'Le développement durable, appliqué au code',
           abstract:
-            "J'ai commencé à développer Openwhyd en 2012, en tant que produit de startup. Malgré le vieillissement de sa codebase, et sa transition en projet collaboratif, open-source, et auto-financé, en 2016, des milliers d'amoureux de la musique l'utilisent encore chaque semaine, voire chaque jour. Je vais vous raconter pourquoi il est important de penser *durable* quand on développe un logiciel, et comment -- avec l'aide d'autres contributeurs -- nous parvenons à la maintenir.",
+            "J'ai commencé à développer Openwhyd en 2012, en tant que produit de startup. Malgré le vieillissement de sa codebase, et sa transition en projet collaboratif, open-source, et auto-financé, en 2016, des milliers d'amoureux de la musique l'utilisent encore chaque semaine, voire chaque jour. Je vais vous raconter pourquoi il est important de penser *durable* quand on développe un logiciel, et comment -- avec l'aide d'autres contributeurs -- nous parvenons à la maintenir. Ce talk est conçu pour les startups et entrepreneurs B2C qui itèrent sur leur produit pour trouver leur proposition de valeur et/ou product-market fit.",
           tags: [
             'Open-source',
             'Startups',
